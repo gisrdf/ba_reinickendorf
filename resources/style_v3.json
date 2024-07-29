@@ -1,0 +1,947 @@
+﻿[
+
+  	{
+	"styleId": "fis_krankenhaus_weitere_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Krankenhausstandorte - weitere Krankenhäuser",
+            "type": "icon",
+            "imageName": "Krankenhaus_weitere.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+  	{
+	"styleId": "fis_krankenhaus_plan_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Krankenhausstandorte - Plankrankenhäuser",
+            "type": "icon",
+            "imageName": "Krankenhaus_plan.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+	"styleId": "rdf_schwimmhallen_strandbaeder_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Schwimmhallen und Strandbäder",
+            "type": "icon",
+            "imageName": "Schwimmbad_Strandbad.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    
+    {
+	"styleId": "rdf_katastrophenschutz_leuchtturm_infopunkt_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Katastrophenschutz-Leuchttürme und –Infopunkte",
+            "type": "icon",
+            "imageName": "Katastrophenschutzleuchtturm.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+	"styleId": "rdf_notwasserbrunnen_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Notwasserbrunnen",
+            "type": "icon",
+            "imageName": "Notwasserbrunnen.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+	"styleId": "rdf_kiezsprechstunden_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Kiezsprechstunden: Kinder- und Jugendgesundheitsdienst",
+            "type": "icon",
+            "imageName": "Kiezsprechstunde.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+	"styleId": "gdi_pflegeeinrichtung_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Pflegeeinrichtungen",
+            "type": "icon",
+            "imageName": "Pflegeeinrichtung.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    }, 
+    
+    {
+	"styleId": "fis_apotheke_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Apothekenstandorte",
+            "type": "icon",
+            "imageName": "Apotheke.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    }, 
+    
+    {
+	"styleId": "rdf_buergeraemter_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Bürgerämter",
+            "type": "icon",
+            "imageName": "Buergeramt.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    }, 
+    
+    {
+	"styleId": "gdi_alkis_bezirk_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Bezirksgrenze Reinickendorf",
+            "polygonStrokeColor": [70, 70, 70, 0.9],
+            "polygonStrokeWidth": 4,
+            "polygonFillColor": [189,189,189, 0]
+        }
+    }]
+    }, 
+
+    {
+    "styleId": "gdi_alkis_ortsteile_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Ortsteile Reinickendorf",
+            "polygonStrokeColor": [0, 79, 31, 1],
+            "polygonStrokeWidth": 2,
+            "polygonFillColor": [200,200,200, 0]
+        }
+    }]
+    },
+    
+    {
+	"styleId": "fis_reinickendorf_gebiet_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Reinickendorf Gebiet",
+            "polygonStrokeColor": [100, 100, 100, 1],
+            "polygonStrokeWidth": 1.2,
+            "polygonFillColor": [255,255,255, 0.6]
+        }
+    }]
+    },
+
+    {
+    "styleId": "gdi_kita_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Kindertagesstätten",
+            "type": "icon",
+            "imageName": "Kindertagesstaetten.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "gdi_jugendfe_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Jugendfreizeiteinrichtung",
+            "type": "icon",
+            "imageName": "Jugendfreizeiteinrichtung.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "sofis_jugendks_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Jugendkunstschulen",
+            "type": "icon",
+            "imageName": "Kunstschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "sofis_jugendvs_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Jugendverkehrsschule",
+            "type": "icon",
+            "imageName": "Verkehrsschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "gdi_gymnasium_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Gymnasium",
+            "type": "icon",
+            "imageName": "Gymnasium.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "gdi_integ_sekundarschule_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Integrierte Sekundarschule",
+            "type": "icon",
+            "imageName": "Integrierte_Sekundarschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "gdi_foerderschule_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Schule mit sonderpädagogischem Förderschwerpunkt",
+            "type": "icon",
+            "imageName": "Foerderschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "gdi_berufsschule_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Berufsschule",
+            "type": "icon",
+            "imageName": "Berufsschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "gdi_privatschule_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Privatschule",
+            "type": "icon",
+            "imageName": "Privatschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "gdi_grundschulen_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Grundschule",
+            "type": "icon",
+            "imageName": "Grundschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+    "styleId": "gdi_einschulbereiche2022_wfs",
+    "rules": [
+        {
+        "style": {
+            "legendValue": "Einschulbereiche - Schuljahr 2022/2023",
+            "polygonStrokeColor": [163, 24, 2, 0.5],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [255, 87, 51, 0]
+        }
+        }
+    ]
+    },
+    
+    {
+    "styleId": "gdi_einschulbereiche2023_wfs",
+    "rules": [
+        {
+        "style": {
+            "legendValue": "Einschulbereiche - Schuljahr 2023/2024",
+            "polygonStrokeColor": [12, 136, 173, 0.6],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [255, 87, 51, 0]
+        }
+        }
+    ]
+    },
+    
+    {
+    "styleId": "gdi_einschulbereiche_wfs_",
+    "rules": [
+        {
+        "style": {
+            "legendValue": "Einschulbereich",
+            "polygonStrokeColor": [115,	60, 210, 0.5],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [255, 87, 51, 0]
+        }
+        }
+    ]
+    },
+    
+    {
+    "styleId": "gdi_einschulbereiche2024_wfs",
+    "rules": [
+        {
+        "style": {
+            "legendValue": "Geplante Einschulbereiche - Schuljahr 2024/2025",
+            "polygonStrokeColor": [199, 107, 8, 1],
+            "polygonStrokeWidth": 2,
+            "polygonStrokeDash": [3,8],
+            "polygonFillColor": [255, 87, 51, 0]
+        }
+        }
+    ]
+    },
+    
+    {
+    "styleId": "rdf_familienzentren_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Familienzentren",
+            "type": "icon",
+            "imageName": "Familienzentrum.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+    "styleId": "sofis_musikschule_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Musikschulen",
+            "type": "icon",
+            "imageName": "Musikschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+    "styleId": "sofis_bibliothek_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Bibliotheken",
+            "type": "icon",
+            "imageName": "Buecherei.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "sofis_volkshochschule_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Volkshochschulen",
+            "type": "icon",
+            "imageName": "Volkshochschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+    "styleId": "sofis_gartenas_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Gartenarbeitsschulen",
+            "type": "icon",
+            "imageName": "Gartenschule.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+
+    {
+    "styleId": "fis_spielplatz_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Spielplätze",
+            "polygonStrokeColor": [51, 128, 113, 1],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [51, 128, 113, 0.8]
+        }
+    }]
+    },
+    
+    {
+    "styleId": "rdf_toilettenhaeuschen_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Toiletten",
+            "type": "icon",
+            "imageName": "Toilette.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+    "styleId": "bwb_trinkbrunnen_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Trinkbrunnen",
+            "type": "icon",
+            "imageName": "Trinkbrunnen.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+    "styleId": "rdf_seniorenfs_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Seniorenfreizeitstätten",
+            "type": "icon",
+            "imageName": "Seniorenfreizeitstaetten.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+    "styleId": "rdf_stadtteil_nachbarschaftszentren_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Stadtteil- und Nachbarschaftszentren",
+            "type": "icon",
+            "imageName": "Stadtteil_Nachbarschaftszentren.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,            
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+    "styleId": "gdi_lor_prog_wfs",
+    "rules": [
+        {
+        "conditions": {
+            "properties": {
+                "pgr_name": "Grüner Norden"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.4],
+            "polygonStrokeWidth": 2,
+            "polygonFillColor": [255, 112, 150, 0.3]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "pgr_name": "Märkisches Viertel"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.4],
+            "polygonStrokeWidth": 2,
+            "polygonFillColor": [203,24,29, 0.4]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "pgr_name": "Reinickendorf Ost"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.4],
+            "polygonStrokeWidth": 2,
+            "polygonFillColor": [236, 242, 21, 0.4]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "pgr_name": "Tegel"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.4],
+            "polygonStrokeWidth": 2,
+            "polygonFillColor": [47, 154, 207, 0.4]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "pgr_name": "Wittenau/Borsigwalde"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.4],
+            "polygonStrokeWidth": 2,
+            "polygonFillColor": [85, 229, 133, 0.4]
+        }
+        }
+    ]
+    },  
+
+    {
+    "styleId": "gdi_lor_bzr_wfs",
+    "rules": [
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "West 2 - Heiligensee/Konradshöhe"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [250, 159, 181, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "Nord 1 - Frohnau/Hermsdorf"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [221, 52, 151, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "Rollbergesiedlung"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [153, 0, 13, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "MV Nord"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [252, 138, 118, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "MV Süd"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [239, 59, 44, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "Ost 1 - Reginhardstraße"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [255, 220, 49, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "Ost 2 - Alt-Reinickendorf"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [255, 255, 183, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "West 1 - Tegel-Süd/Flughafensee"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [183, 218, 247, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "West 4 - Auguste-Viktoria-Allee"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [66, 146, 198, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "West 5 - Tegel"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [0, 41, 126, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "Nord 2 - Waidmannslust/Wittenau/Lübars"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [207, 248, 192, 0.5]
+        }
+        },
+        {
+        "conditions": {
+            "properties": {
+                "BZR_NAME": "West 3 - Borsigwalde/Freie Scholle"
+            }
+        },
+        "style": {
+            "polygonStrokeColor": [45, 45, 45, 0.2],
+            "polygonStrokeWidth": 1.5,
+            "polygonFillColor": [0, 102, 41, 0.5]
+        }
+        }
+    ]
+    },    
+    
+    {
+    "styleId": "gdi_lor_plr_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "LOR - Planungsräume",
+            "polygonStrokeColor": [103,0,31, 0.6],
+            "polygonStrokeWidth": 2,
+            "polygonFillColor": [197, 27, 138, 0]
+        }
+    }]
+    },
+    
+    {
+    "styleId": "fis_quartiermanagement_wfs",
+    "rules": [{
+        "style": {
+            "polygonStrokeColor": [150, 21, 34, 1],
+            "polygonStrokeWidth": 1.2,
+            "polygonFillHatch": {
+                "pattern": "diagonal",
+                "lineWidth": 1,
+                "size": 8,
+                "backgroundColor": [150, 21, 34, 0],
+                "patternColor": [150, 21, 34, 1]
+            },
+            "legendValue": "Quartiersmanagementgebiete"
+        }
+    }]
+    },
+  
+
+    {
+    "styleId": "fis_sozzusammenhalt_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Gebiete Sozialer Zusammenhalt",
+            "polygonStrokeColor": [204, 152, 61, 1],
+            "polygonStrokeWidth": 0,
+            "polygonFillColor": [245, 167, 66, 0.8]
+        }
+    }]
+    },
+    
+    {
+    "styleId": "lageso_badestellen_gjs",
+    "rules": [{
+        "style": {
+            "legendValue": "Badestellen",
+            "type": "icon",
+            "imageName": "Badestellen.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.25,
+			"imageOffsetY": 0.25
+        }
+    }]
+    },
+    
+    {
+    "styleId": "fis_kga_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Kleingärten",
+            "polygonStrokeColor": [84, 158, 70, 1],
+            "polygonStrokeWidth": 1,
+            "polygonFillColor": [84, 158, 70, 0.7]
+        }
+    }]
+    },
+    
+	{
+    "styleId": "rdf_hundefreilauf_gjs",
+	"rules": [
+        {
+       	"conditions": {
+            "properties": {
+                "bezeich": "Symbol Hundeauslauf"
+            }
+        },
+        "style": {
+            "legendValue": "Symbol Hundefreilaufflächen",
+            "type": "icon",
+            "imageName": "Hundefreilaufflaeche.svg",
+        	"imageScale": 1,
+        	"imageWidth": 100,
+        	"imageHeight": 100,
+			"imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+        },
+        {
+       	"conditions": {
+            "properties": {
+                "bezirk": "Reinickendorf"
+            }
+        },
+        "style": {
+            "legendValue": "Hundefreilaufflächen",
+			"polygonStrokeColor": [35,139,69, 1],
+			"polygonStrokeWidth": 1,
+			"polygonFillColor": [35,139,69, 0.7]
+        }
+        }
+    ]
+    }, 
+    
+    {
+    "styleId": "fis_wald_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Waldgebiet",
+            "polygonStrokeColor": [2, 92, 34, 0.8],
+            "polygonStrokeWidth": 0.6,
+            "polygonFillColor": [1, 84, 31, 0.7]
+        }
+    }]
+    },
+    
+    {
+    "styleId": "fis_gruenanlagen_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Öffentliche Grünanlagen",
+            "polygonStrokeColor": [69, 128, 47, 1],
+            "polygonStrokeWidth": 1,
+            "polygonFillColor": [77, 143, 53, 0.7]
+        }
+    }]
+    },
+    
+    {
+    "styleId": "fis_friedhof_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Friedhöfe",
+            "polygonStrokeColor": [64, 97, 41, 1],
+            "polygonStrokeWidth": 1,
+            "polygonFillColor": [64, 97, 41, 0.7]
+        }
+    }]
+    },
+
+    {
+    "styleId": "gdi_behindertenparkplatz_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Behindertenparkplatz",
+            "type": "icon",
+            "imageName": "Behindertenparkplatz.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    },
+    
+    {
+    "styleId": "gdi_elektroladesaeulen_wfs",
+    "rules": [{
+        "style": {
+            "legendValue": "Elektro-Ladesäulen",
+            "type": "icon",
+            "imageName": "Elektroladesaeulen.svg",
+            "imageScale": 1,
+            "imageWidth": 100,
+            "imageHeight": 100,
+            "imageOffsetX": 0.1,
+			"imageOffsetY": 0.1
+        }
+    }]
+    }
+]

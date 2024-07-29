@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   width="23.000002"
+   height="23"
+   viewBox="0 0 23.000002 23"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   sodipodi:docname="Katastrophenschutzleuchtturm.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs18" /><sodipodi:namedview
+   id="namedview16"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="23.532514"
+   inkscape:cx="5.9704628"
+   inkscape:cy="9.8162058"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_1"
+   inkscape:showpageshadow="2"
+   inkscape:deskcolor="#d1d1d1" />
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="26.835899"
+   y1="49.977501"
+   x2="77.836899"
+   y2="49.977501"
+   gradientTransform="matrix(0.41818186,0,0,0.41818178,-10.385965,-9.3998892)">
+	<stop
+   offset="1"
+   style="stop-color:#ffffff;stop-opacity:1;"
+   id="stop2" />
+	<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop4" />
+</linearGradient>
+<ellipse
+   stroke-width="1.67273"
+   stroke-miterlimit="10"
+   cx="11.500001"
+   cy="11.5"
+   id="circle7"
+   style="fill:url(#SVGID_1_);stroke:#102499;stroke-opacity:1"
+   rx="10.663636"
+   ry="10.663635" />
+
+<path
+   sodipodi:type="star"
+   style="fill:#102499;fill-opacity:1;stroke:none;stroke-width:1.337;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+   id="path1694"
+   inkscape:flatsided="false"
+   sodipodi:sides="3"
+   sodipodi:cx="-15.335378"
+   sodipodi:cy="3.7565048"
+   sodipodi:r1="4.6057453"
+   sodipodi:r2="2.3028727"
+   sodipodi:arg1="0.52359878"
+   sodipodi:arg2="1.5707963"
+   inkscape:rounded="0"
+   inkscape:randomized="0"
+   d="m -11.346685,6.0593774 -3.988693,0 -3.988692,0 1.994346,-3.4543089 1.994346,-3.45430904 1.994346,3.45430894 z"
+   inkscape:transform-center-y="-2.1821736"
+   transform="matrix(1.8994862,0,0,1.8951753,40.629339,5.2324065)" /></svg>

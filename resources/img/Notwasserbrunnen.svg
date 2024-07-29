@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   width="23.000002"
+   height="23"
+   viewBox="0 0 23.000002 23"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   sodipodi:docname="Notwasserbrunnen.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs18"><inkscape:path-effect
+     effect="powerclip"
+     id="path-effect2066"
+     is_visible="true"
+     lpeversion="1"
+     inverse="true"
+     flatten="false"
+     hide_clip="false"
+     message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" /><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2062"><path
+       id="lpe_path-effect2066"
+       style="fill:#206631;fill-opacity:1;stroke:#000000;stroke-width:0.321;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       class="powerclip"
+       d="M -26.781055,-14.783375 H -4.7694664 V 3.3846236 H -26.781055 Z m 10.165745,3.52236 v 8.7113512" /></clipPath></defs><sodipodi:namedview
+   id="namedview16"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="22.627417"
+   inkscape:cx="5.6789513"
+   inkscape:cy="7.6455921"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_1"
+   inkscape:showpageshadow="2"
+   inkscape:deskcolor="#d1d1d1" />
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="26.835899"
+   y1="49.977501"
+   x2="77.836899"
+   y2="49.977501"
+   gradientTransform="matrix(0.41818186,0,0,0.41818178,-10.385964,-9.3998888)">
+	<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop2" />
+	<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop4" />
+</linearGradient>
+<ellipse
+   stroke-width="1.67273"
+   stroke-miterlimit="10"
+   cx="11.500001"
+   cy="11.5"
+   id="circle7"
+   style="fill:url(#SVGID_1_);stroke:#008080;stroke-opacity:1"
+   rx="10.663636"
+   ry="10.663635" />
+
+<path
+   id="rect348"
+   style="fill:#008080;fill-opacity:1;stroke-width:0.351277;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+   d="m 4.7672614,8.6307348 v 4.6583792 h 7.1600556 0.269025 v -0.0021 c 0.422092,0.04413 0.84296,0.235827 1.171957,0.59038 0.758505,0.826765 0.930785,2.293571 0.3989,3.396258 l 0.07113,0.07926 h 4.02148 c 0.405022,-2.658571 -0.32254,-5.40006 -1.886271,-7.107464 -0.911233,-0.994772 -2.038234,-1.5609855 -3.209743,-1.6125968 -0.110627,-0.00402 -0.330869,0.00217 -0.330869,0.00217 v -0.0042 z"
+   sodipodi:nodetypes="cccccccccccccc" /><rect
+   style="fill:#008080;fill-opacity:1;stroke-width:0.189899;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+   id="rect348-1"
+   width="2.9439013"
+   height="7.2610846"
+   x="3.5279901"
+   y="7.2414012"
+   ry="0.11348378" /><rect
+   style="fill:#008080;fill-opacity:1;stroke-width:0.142651;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+   id="rect348-1-1"
+   width="5.7354999"
+   height="2.103054"
+   x="13.152675"
+   y="15.31825"
+   ry="0.032868706" /><rect
+   style="fill:#008080;fill-opacity:1;stroke:#008080;stroke-width:0.38271;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+   id="rect8179"
+   width="1.7783401"
+   height="3.8716538"
+   x="10.484769"
+   y="5.3277822"
+   ry="0.033391666" /><rect
+   style="fill:#008080;fill-opacity:1;stroke:#008080;stroke-width:0.336712;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+   id="rect8179-3"
+   width="0.84112197"
+   height="6.3362637"
+   x="4.7071991"
+   y="-14.487056"
+   ry="0.054648053"
+   transform="matrix(-9.0961073e-4,0.99999959,-0.99999999,-1.5403921e-4,0,0)" /></svg>
