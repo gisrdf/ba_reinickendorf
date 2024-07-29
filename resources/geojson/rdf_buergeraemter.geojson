@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Bürgerämter_Rdf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25833" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "120003", "Name": "Bürgeramt Tegel", "Strasse": "Berliner Straße", "Hausnr": "35", "PLZ": "13507", "Typ": "Bürgeramt", "Internet": "https://service.berlin.de/standort/122309/" }, "geometry": { "type": "Point", "coordinates": [ 384080.105692815151997, 5827194.575498728081584 ] } },
+{ "type": "Feature", "properties": { "id": "120001", "Name": "Bürgeramt Rathaus Reinickendorf", "Strasse": "Eichborndamm", "Hausnr": "215", "PLZ": "13437", "Typ": "Bürgeramt", "Internet": "https://service.berlin.de/standort/122304/" }, "geometry": { "type": "Point", "coordinates": [ 386467.361612881184556, 5827870.925169143825769 ] } },
+{ "type": "Feature", "properties": { "id": "120004", "Name": "Bürgeramt Heiligensee", "Strasse": "Ruppiner Chaussee", "Hausnr": "268", "PLZ": "13503", "Typ": "Bürgeramt", "Internet": "https://service.berlin.de/standort/122312/" }, "geometry": { "type": "Point", "coordinates": [ 381115.628752296091989, 5831031.287732400000095 ] } },
+{ "type": "Feature", "properties": { "id": "120002", "Name": "Bürgeramt Reinickendorf-Ost", "Strasse": "Teichstraße", "Hausnr": "65", "PLZ": "13407", "Typ": "Bürgeramt", "Internet": "https://service.berlin.de/standort/122311/" }, "geometry": { "type": "Point", "coordinates": [ 388022.620057006948628, 5825850.20497259311378 ] } },
+{ "type": "Feature", "properties": { "id": "120005", "Name": "Bürgeramt Märkisches Viertel", "Strasse": "Wilhelmsruher Damm", "Hausnr": "142C", "PLZ": "13439", "Typ": "Bürgeramt", "Internet": "https://service.berlin.de/standort/122314/" }, "geometry": { "type": "Point", "coordinates": [ 388426.477443488431163, 5828802.971484570764005 ] } }
+]
+}

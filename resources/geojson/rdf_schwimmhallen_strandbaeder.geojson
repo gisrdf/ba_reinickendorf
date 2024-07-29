@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Schwimm- und Strandbäder",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25833" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 120001, "Name": "Paracelsus-Bad", "Straße": "Roedernallee", "Hausnr": "200-204", "PLZ": "13407", "Hinweise": "zurzeit wegen Sanierung geschlossen", "Typ": "Schwimmhallen und Strandbäder" }, "geometry": { "type": "Point", "coordinates": [ 387994.26774724770803, 5826326.752678833901882 ] } },
+{ "type": "Feature", "properties": { "id": 120002, "Name": "Stadtbad Märkisches Viertel", "Straße": "Wilhelmsruher Damm", "Hausnr": "142D", "PLZ": "13439", "Typ": "Schwimmhallen und Strandbäder" }, "geometry": { "type": "Point", "coordinates": [ 388467.057523669383954, 5828892.195380640216172 ] } },
+{ "type": "Feature", "properties": { "id": 120003, "Name": "Strandbad Lübars", "Straße": "Am Freibad", "Hausnr": "9", "PLZ": "13469", "Typ": "Schwimmhallen und Strandbäder" }, "geometry": { "type": "Point", "coordinates": [ 387344.562827810761519, 5831099.215178171172738 ] } },
+{ "type": "Feature", "properties": { "id": 120004, "Name": "Strandbad Tegeler See", "Straße": "Schwarzer Weg", "Hausnr": "21", "PLZ": "13505", "Typ": "Schwimmhallen und Strandbäder" }, "geometry": { "type": "Point", "coordinates": [ 381070.057766847428866, 5826814.986917059868574 ] } }
+]
+}
