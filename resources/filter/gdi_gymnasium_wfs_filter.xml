@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:GetFeature service="WFS" version="2.0.0" xmlns:wfs="http://www.opengis.net/wfs/2.0">
+    <wfs:Query typeNames="schulen">
+        <Filter xmlns="http://www.opengis.net/fes/2.0">
+		<And>
+                <PropertyIsEqualTo>
+                    <ValueReference>bezirk</ValueReference>
+                    <Literal>Reinickendorf</Literal>
+                </PropertyIsEqualTo>
+                <PropertyIsEqualTo>
+                    <ValueReference>schultyp</ValueReference>
+                    <Literal>Gymnasium</Literal>
+                </PropertyIsEqualTo> 
+            </And>                            
+        </Filter>
+    </wfs:Query>
+</wfs:GetFeature>

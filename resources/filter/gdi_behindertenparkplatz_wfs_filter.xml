@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:GetFeature service="WFS" version="2.0.0" xmlns:wfs="http://www.opengis.net/wfs/2.0">
+    <wfs:Query typeNames="bpark">
+        <Filter xmlns="http://www.opengis.net/fes/2.0">
+                <PropertyIsEqualTo>
+                    <ValueReference>bezirk</ValueReference>
+                    <Literal>Reinickendorf</Literal>
+                </PropertyIsEqualTo>
+        </Filter>
+    </wfs:Query>
+</wfs:GetFeature>

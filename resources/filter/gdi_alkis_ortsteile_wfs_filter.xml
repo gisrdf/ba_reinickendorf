@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:GetFeature service="WFS" version="2.0.0" xmlns:wfs="http://www.opengis.net/wfs/2.0">
+    <wfs:Query typeNames="ortsteile">
+        <Filter xmlns="http://www.opengis.net/fes/2.0">
+        <Or>
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1201</Literal>
+            </PropertyIsEqualTo>   
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1202</Literal>
+            </PropertyIsEqualTo> 
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1203</Literal>
+            </PropertyIsEqualTo> 
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1204</Literal>
+            </PropertyIsEqualTo> 
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1205</Literal>
+            </PropertyIsEqualTo> 
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1206</Literal>
+            </PropertyIsEqualTo> 
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1207</Literal>
+            </PropertyIsEqualTo> 
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1208</Literal>
+            </PropertyIsEqualTo> 
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1209</Literal>
+            </PropertyIsEqualTo> 
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1210</Literal>
+            </PropertyIsEqualTo> 
+            <PropertyIsEqualTo>
+                    <ValueReference>gmt</ValueReference>
+                    <Literal>1211</Literal>
+            </PropertyIsEqualTo> 
+        </Or>
+        </Filter>
+    </wfs:Query>
+</wfs:GetFeature>
+
+
+
+
