@@ -1232,7 +1232,7 @@
     "gfiAttributes": {
         "Name": "Name",
         "Typ": "Art der Einrichtung",
-        "Strasse": "Straße",
+        "Straße": "Straße",
         "Hausnr": "Hausnummer",
         "PLZ": {
             "name": "Postleitzahl und Ort",
